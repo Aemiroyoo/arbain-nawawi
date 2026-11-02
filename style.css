@@ -1440,7 +1440,7 @@ ul {
     }
 
     .hadith-arabic {
-        font-size: 28px;
+        font-size: 30px !important;
         line-height: 2.1;
     }
 
@@ -1551,7 +1551,7 @@ ul {
     }
 
     .hadith-arabic {
-        font-size: 26px;
+        font-size: 28px !important;
         line-height: 2.15;
     }
 
